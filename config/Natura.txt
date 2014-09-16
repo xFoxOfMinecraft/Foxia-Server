@@ -1,0 +1,335 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:"Activator Blaze Rail"=1256
+    I:"Amaranth Button"=1151
+    I:"Amaranth Fence Gate"=1152
+    I:"Amaranth Pressure Plate"=1153
+    I:"Amaranth Stairs"=1154
+    I:"Amaranth Trapdoor"=1155
+    I:Berry_Bush=1156
+    I:"Blaze Hopper"=1257
+    I:"Blaze Rail"=1258
+    I:"Bloodwood Block"=1157
+    I:"Bloodwood Button"=1158
+    I:"Bloodwood Door"=1159
+    I:"Bloodwood Fence Gate"=1160
+    I:"Bloodwood Pressure Plate"=1161
+    I:"Bloodwood Stairs"=1162
+    I:"Bloodwood Trapdoor"=1163
+    I:"Blue Glowshroom"=1164
+    I:Bookshelf=1165
+    I:"Cloud Block"=1166
+    I:"Crafting Table"=1167
+    I:Crops=1168
+    I:"Darkwood Button"=1169
+    I:"Darkwood Fence Gate"=1170
+    I:"Darkwood Leaves"=1171
+    I:"Darkwood Log"=1172
+    I:"Darkwood Pressure Plate"=1173
+    I:"Darkwood Stairs"=1174
+    I:"Darkwood Trapdoor"=1175
+    I:"Detector Blaze Rail"=1259
+    I:"Eucalyptus Door"=1176
+    I:"Eucalyputus Button"=1177
+    I:"Eucalyputus Fence Gate"=1178
+    I:"Eucalyputus Pressure Plate"=1179
+    I:"Eucalyputus Stairs"=1180
+    I:"Eucalyputus Trapdoor"=1181
+    I:Fence=1182
+    I:"Flora Leaves"=1183
+    I:Flower=1184
+    I:"Fusewood Button"=1185
+    I:"Fusewood Fence Gate"=1186
+    I:"Fusewood Pressure Plate"=1187
+    I:"Fusewood Stairs"=1188
+    I:"Fusewood Trapdoor"=1189
+    I:"Ghostwood Button"=1190
+    I:"Ghostwood Door"=1191
+    I:"Ghostwood Fence Gate"=1192
+    I:"Ghostwood Pressure Plate"=1193
+    I:"Ghostwood Stairs"=1194
+    I:"Ghostwood Trapdoor"=1195
+    I:"Glowing Mushroom"=1196
+    I:"Green Glowshroom"=1197
+    I:"Hopseed Button"=1198
+    I:"Hopseed Door"=1199
+    I:"Hopseed Fence Gate"=1200
+    I:"Hopseed Pressure Plate"=1201
+    I:"Hopseed Stairs"=1202
+    I:"Hopseed Trapdoor"=1203
+    I:"Log Slab"=1204
+    I:"Maple Button"=1205
+    I:"Maple Fence Gate"=1206
+    I:"Maple Pressure Plate"=1207
+    I:"Maple Stairs"=1208
+    I:"Maple Trapdoor"=1209
+    I:"Nether Berry Bush"=1210
+    I:"Nether Dispenser"=1260
+    I:"Nether Dropper"=1261
+    I:"Nether Glass"=1262
+    I:"Nether Lever"=1263
+    I:"Netherrack Button"=1264
+    I:"Netherrack Furnace"=1265
+    I:"Netherrack Pressure Plate"=1266
+    I:"Plank Slab One"=1211
+    I:"Plank Slab Two"=1212
+    I:"Planks Block"=1213
+    I:"Powered Blaze Rail"=1267
+    I:"Purple Glowshroom"=1214
+    I:"Rare Leaves"=1215
+    I:"Rare Log"=1216
+    I:"Rare Sapling"=1217
+    I:"Redwood Bark Door"=1218
+    I:"Redwood Block"=1219
+    I:"Redwood Button"=1220
+    I:"Redwood Door"=1221
+    I:"Redwood Fence Gate"=1222
+    I:"Redwood Pressure Plate"=1223
+    I:"Redwood Stairs"=1224
+    I:"Redwood Trapdoor"=1225
+    I:"Respawn Obelisk"=1268
+    I:"Saguaro Cactus"=1226
+    I:"Sakura Button"=1227
+    I:"Sakura Door"=1228
+    I:"Sakura Fence Gate"=1229
+    I:"Sakura Leaves"=1230
+    I:"Sakura Pressure Plate"=1231
+    I:"Sakura Stairs"=1232
+    I:"Sakura Trapdoor"=1234
+    I:Sapling=1235
+    I:"Silverbell Button"=1236
+    I:"Silverbell Fence Gate"=1237
+    I:"Silverbell Pressure Plate"=1238
+    I:"Silverbell Stairs"=1239
+    I:"Silverbell Trapdoor"=1240
+    I:Thornvines=1241
+    I:"Tigerwood Button"=1242
+    I:"Tigerwood Fence Gate"=1243
+    I:"Tigerwood Pressure Plate"=1244
+    I:"Tigerwood Stairs"=1245
+    I:"Tigerwood Trapdoor"=1246
+    I:"Topiary Grass Block"=1247
+    I:"Topiary Grass Slab"=1248
+    I:"Willow Button"=1249
+    I:"Willow Fence Gate"=1250
+    I:"Willow Log"=1251
+    I:"Willow Pressure Plate"=1252
+    I:"Willow Stairs"=1253
+    I:"Willow Trapdoor"=1254
+    I:"Wood Block"=1255
+}
+
+
+####################
+# boat item
+####################
+
+"boat item" {
+    I:item=7001
+}
+
+
+####################
+# disabler
+####################
+
+disabler {
+    B:"Enable wheat to flour recipe"=true
+    B:"Generate Amaranth Trees"=true
+    B:"Generate Ash Clouds"=true
+    B:"Generate Barley Crops"=true
+    B:"Generate Blackberry Bushes"=true
+    B:"Generate Blightberry Bushes"=true
+    B:"Generate Bloodwood Trees"=true
+    B:"Generate Bluebell Flowers"=true
+    B:"Generate Blueberry Bushes"=true
+    B:"Generate Cotton Crops"=true
+    B:"Generate Dark Clouds"=true
+    B:"Generate Darkwood Trees"=true
+    B:"Generate Duskberry Bushes"=true
+    B:"Generate Fusewood Trees"=true
+    B:"Generate Ghost Trees"=true
+    B:"Generate Hopseed Trees"=true
+    B:"Generate Maloberry Bushes"=true
+    B:"Generate Maple Trees"=true
+    B:"Generate Overworld Clouds"=true
+    B:"Generate Raspberry Bushes"=true
+    B:"Generate Redwood Trees"=true
+    B:"Generate Saguaro Cactus"=true
+    B:"Generate Sakura Trees"=true
+    B:"Generate Silverbell Trees"=true
+    B:"Generate Skyberry Bushes"=true
+    B:"Generate Small Eucalyptus Trees"=true
+    B:"Generate Stingberry Bushes"=true
+    B:"Generate Sulfur Clouds"=true
+    B:"Generate Thornvines"=true
+    B:"Generate Tigerwood Trees"=true
+    B:"Generate Willow Trees"=true
+    B:"Obelisks let players respawn in the Nether"=true
+    B:"Override Nether"=false
+}
+
+
+####################
+# general
+####################
+
+general {
+    I:"Sea level"=64
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:"Barley Seed"=7002
+    I:"Barley Seed Bag"=7003
+    I:"Berry Food"=7004
+    I:"Berry Medley"=7005
+    I:"Bloodwood Bow"=7006
+    I:"Bloodwood Hatchet"=7007
+    I:"Bloodwood Kama"=7008
+    I:"Bloodwood Pickaxe"=7009
+    I:"Bloodwood Shovel"=7010
+    I:"Bloodwood Sword"=7011
+    I:"Bonemeal Bag"=7012
+    I:"Cactus Juice"=7013
+    I:"Carrot Bag"=7014
+    I:"Cotton Seed Bag"=7015
+    I:"Darkwood Bow"=7016
+    I:"Darkwood Hatchet"=7017
+    I:"Darkwood Kama"=7018
+    I:"Darkwood Pickaxe"=7019
+    I:"Darkwood Shovel"=7020
+    I:"Darkwood Sword"=7021
+    I:"Door Item"=7022
+    I:"Empty Bowl"=7023
+    I:"Flint and Blaze"=7056
+    I:"Food Items"=7024
+    I:"Fusewood Bow"=7025
+    I:"Fusewood Hatchet"=7026
+    I:"Fusewood Kama"=7027
+    I:"Fusewood Pickaxe"=7028
+    I:"Fusewood Shovel"=7029
+    I:"Fusewood Sword"=7030
+    I:"Ghostwood Bow"=7031
+    I:"Ghostwood Hatchet"=7032
+    I:"Ghostwood Kama"=7033
+    I:"Ghostwood Pickaxe"=7034
+    I:"Ghostwood Shovel"=7035
+    I:"Ghostwood Sword"=7036
+    I:"Imp Boots"=7037
+    I:"Imp Helmet"=7038
+    I:"Imp Jerkin"=7039
+    I:"Imp Leggings"=7040
+    I:"Imp Meat"=7041
+    I:"Nether Berry Food"=7042
+    I:"Nether Wart Bag"=7043
+    I:"Nether foodstuffs"=7044
+    I:"Potato Bag"=7045
+    I:"Quartz Axe"=7046
+    I:"Quartz Kama"=7047
+    I:"Quartz Pickaxe"=7048
+    I:"Quartz Shovel"=7049
+    I:"Quartz Sword"=7050
+    I:"Saguaro Fruit"=7051
+    I:"Spawn Egg"=7052
+    I:"Stew Bowl"=7053
+    I:Stick=7054
+    I:"Wheat Seed Bag"=7055
+}
+
+
+####################
+# mob changes
+####################
+
+"mob changes" {
+    I:"Maximum Baby Heatscar Spiders on Spider Death"=4
+    I:"Minimum Baby Heatscar Spiders on Spider Death"=2
+}
+
+
+####################
+# retrogen
+####################
+
+retrogen {
+    B:"Retroactive Generation"=false
+}
+
+
+####################
+# terrain
+####################
+
+terrain {
+    # Requires blockID < 256
+    I:"Heat Sand"=255
+
+    # Requires blockID < 256
+    I:"Tainted Soil"=250
+}
+
+
+####################
+# worldgen
+####################
+
+worldgen {
+    I:"Amaranth Tree Spawn Rarity"=1
+    I:"Ash Cloud Spawn Height"=40
+    I:"Ash Cloud Spawn Range"=78
+    I:"Ash Cloud Spawn Rarity"=8
+    I:"Blackberry Spawn Range"=64
+    I:"Blackberry Spawn Rarity"=48
+    I:"Blightberry Spawn Range"=100
+    I:"Blightberry Spawn Rarity"=18
+    I:"Blood Tree Spawn Rarity"=14
+    I:"Blueberry Spawn Range"=64
+    I:"Blueberry Spawn Rarity"=34
+    I:"Bush Tree Spawn Range"=20
+    I:"Bush Tree Spawn Rarity"=10
+    I:"Cloud Spawn Height"=192
+    I:"Cloud Spawn Range"=48
+    I:"Cloud Spawn Rarity"=10
+    I:"Dark Cloud Spawn Density"=10
+    I:"Dark Cloud Spawn MinX"=0
+    I:"Dark Cloud Spawn Range"=256
+    I:"Darkwood Tree Spawn Rarity"=10
+    I:"Duskberry Spawn Range"=100
+    I:"Duskberry Spawn Rarity"=18
+    I:"Fusewood Tree Spawn Rarity"=50
+    I:"Ghostwood Tree Spawn Rarity"=10
+    I:"Maloberry Spawn Range"=64
+    I:"Maloberry Spawn Rarity"=40
+    I:"Maple Tree Spawn Rarity"=34
+    I:"Raspberry Spawn Range"=64
+    I:"Raspberry Spawn Rarity"=30
+    I:"Redwood Tree Spawn Rarity"=150
+    I:"Saguaro Cactus Spawn Rarity"=5
+    I:"Sakura Tree Spawn Range"=32
+    I:"Sakura Tree Spawn Rarity"=10
+    I:"Silverbell Tree Spawn Rarity"=70
+    I:"Skyberry Spawn Range"=100
+    I:"Skyberry Spawn Rarity"=18
+    I:"Small Eucalyptus Tree Spawn Range"=32
+    I:"Small Eucalyptus Tree Spawn Rarity"=25
+    I:"Stingberry Spawn Range"=100
+    I:"Stingberry Spawn Rarity"=18
+    I:"Sulfur Cloud Spawn Height"=40
+    I:"Sulfur Cloud Spawn Range"=78
+    I:"Sulfur Cloud Spawn Rarity"=8
+    I:"Thornvines Spawn Rarity"=40
+    I:"Tigerwood Tree Spawn Rarity"=30
+    I:"Willow Tree Spawn Rarity"=10
+}
+
+
